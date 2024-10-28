@@ -32,7 +32,7 @@ function toggleDark() {
       @click="toggleDark()"
     />
     <NuxtLink
-      href="https://github.com/CofCat456/http-test-tool" target="_blank"
+      href="https://github.com/ilyaliao/http-test-tool" target="_blank"
       i-carbon-logo-github text-lg op50 hover:op75
     />
   </div>

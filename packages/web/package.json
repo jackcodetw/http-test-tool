@@ -3,16 +3,16 @@
   "type": "module",
   "version": "0.0.0",
   "description": "HTTP request testing tool supporting GET and POST methods",
-  "author": "CofCat456 <a25690756@gmail.com>",
+  "author": "ilyaliao <a25690756@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/CofCat456/http-test-tool#readme",
+  "homepage": "https://github.com/ilyaliao/http-test-tool#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CofCat456/http-test-tool.git",
+    "url": "git+https://github.com/ilyaliao/http-test-tool.git",
     "directory": "packages/web"
   },
   "bugs": {
-    "url": "https://github.com/CofCat456/http-test-tool/issues"
+    "url": "https://github.com/ilyaliao/http-test-tool/issues"
   },
   "keywords": [
     "http",
